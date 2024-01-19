@@ -1,0 +1,1526 @@
+{
+    "Africa": [
+        {
+            "name": "Algeria",
+            "ISO-3166-2": "DZ",
+            "ISO-3166-3": "DZA",
+            "ccTLD": ".dz"
+        },
+        {
+            "name": "Angola",
+            "ISO-3166-2": "AO",
+            "ISO-3166-3": "AGO",
+            "ccTLD": ".ao"
+        },
+        {
+            "name": "Ascension",
+            "ISO-3166-2": "SH",
+            "ISO-3166-3": "SHN",
+            "ccTLD": ".sh"
+        },
+        {
+            "name": "Benin",
+            "ISO-3166-2": "BJ",
+            "ISO-3166-3": "BEN",
+            "ccTLD": ".bj"
+        },
+        {
+            "name": "Botswana",
+            "ISO-3166-2": "BW",
+            "ISO-3166-3": "BWA",
+            "ccTLD": ".bw"
+        },
+        {
+            "name": "Burkina Faso",
+            "ISO-3166-2": "BF",
+            "ISO-3166-3": "BFA",
+            "ccTLD": ".bf"
+        },
+        {
+            "name": "Burundi",
+            "ISO-3166-2": "BI",
+            "ISO-3166-3": "BDI",
+            "ccTLD": ".bi"
+        },
+        {
+            "name": "Cameroon",
+            "ISO-3166-2": "CM",
+            "ISO-3166-3": "CMR",
+            "ccTLD": ".cm"
+        },
+        {
+            "name": "Cape Verde Islands",
+            "ISO-3166-2": "CV",
+            "ISO-3166-3": "CPV",
+            "ccTLD": ".cv"
+        },
+        {
+            "name": "Central African Republic",
+            "ISO-3166-2": "CF",
+            "ISO-3166-3": "CAF",
+            "ccTLD": ".cf"
+        },
+        {
+            "name": "Chad Republic",
+            "ISO-3166-2": "TD",
+            "ISO-3166-3": "TCD",
+            "ccTLD": ".td"
+        },
+        {
+            "name": "Comoros",
+            "ISO-3166-2": "KM",
+            "ISO-3166-3": "COM",
+            "ccTLD": ".km"
+        },
+        {
+            "name": "Congo",
+            "ISO-3166-2": "CG",
+            "ISO-3166-3": "COG",
+            "ccTLD": ".cg"
+        },
+        {
+            "name": "Dem. Republic of the Congo",
+            "ISO-3166-2": "CD",
+            "ISO-3166-3": "COD",
+            "ccTLD": ".cd"
+        },
+        {
+            "name": "Djibouti",
+            "ISO-3166-2": "DJ",
+            "ISO-3166-3": "DJI",
+            "ccTLD": ".dj"
+        },
+        {
+            "name": "Egypt",
+            "ISO-3166-2": "EG",
+            "ISO-3166-3": "EGY",
+            "ccTLD": ".eg"
+        },
+        {
+            "name": "Equatorial Guinea",
+            "ISO-3166-2": "GQ",
+            "ISO-3166-3": "GNQ",
+            "ccTLD": ".gq"
+        },
+        {
+            "name": "Eritrea",
+            "ISO-3166-2": "ER",
+            "ISO-3166-3": "ERI",
+            "ccTLD": ".er"
+        },
+        {
+            "name": "eSwatini",
+            "ISO-3166-2": "SZ",
+            "ISO-3166-3": "SWZ",
+            "ccTLD": ".sz"
+        },
+        {
+            "name": "Ethiopia",
+            "ISO-3166-2": "ET",
+            "ISO-3166-3": "ETH",
+            "ccTLD": ".et"
+        },
+        {
+            "name": "Gabon Republic",
+            "ISO-3166-2": "GA",
+            "ISO-3166-3": "GAB",
+            "ccTLD": ".ga"
+        },
+        {
+            "name": "Gambia",
+            "ISO-3166-2": "GM",
+            "ISO-3166-3": "GMB",
+            "ccTLD": ".gm"
+        },
+        {
+            "name": "Ghana",
+            "ISO-3166-2": "GH",
+            "ISO-3166-3": "GHA",
+            "ccTLD": ".gh"
+        },
+        {
+            "name": "Guinea",
+            "ISO-3166-2": "GN",
+            "ISO-3166-3": "GIN",
+            "ccTLD": ".gn"
+        },
+        {
+            "name": "Guinea-Bissau",
+            "ISO-3166-2": "GW",
+            "ISO-3166-3": "GNB",
+            "ccTLD": ".gw"
+        },
+        {
+            "name": "Ivory Coast",
+            "ISO-3166-2": "CI",
+            "ISO-3166-3": "CIV",
+            "ccTLD": ".ci"
+        },
+        {
+            "name": "Kenya",
+            "ISO-3166-2": "KE",
+            "ISO-3166-3": "KEN",
+            "ccTLD": ".ke"
+        },
+        {
+            "name": "Lesotho",
+            "ISO-3166-2": "LS",
+            "ISO-3166-3": "LSO",
+            "ccTLD": ".ls"
+        },
+        {
+            "name": "Liberia",
+            "ISO-3166-2": "LR",
+            "ISO-3166-3": "LBR",
+            "ccTLD": ".lr"
+        },
+        {
+            "name": "Libya",
+            "ISO-3166-2": "LY",
+            "ISO-3166-3": "LBY",
+            "ccTLD": ".ly"
+        },
+        {
+            "name": "Madagascar",
+            "ISO-3166-2": "MG",
+            "ISO-3166-3": "MDG",
+            "ccTLD": ".mg"
+        },
+        {
+            "name": "Malawi",
+            "ISO-3166-2": "MW",
+            "ISO-3166-3": "MWI",
+            "ccTLD": ".mw"
+        },
+        {
+            "name": "Mali Republic",
+            "ISO-3166-2": "ML",
+            "ISO-3166-3": "MLI",
+            "ccTLD": ".ml"
+        },
+        {
+            "name": "Mauritania",
+            "ISO-3166-2": "MR",
+            "ISO-3166-3": "MRT",
+            "ccTLD": ".mr"
+        },
+        {
+            "name": "Mauritius",
+            "ISO-3166-2": "MU",
+            "ISO-3166-3": "MUS",
+            "ccTLD": ".mu"
+        },
+        {
+            "name": "Mayotte Island",
+            "ISO-3166-2": "YT",
+            "ISO-3166-3": "MYT",
+            "ccTLD": ".yt"
+        },
+        {
+            "name": "Morocco",
+            "ISO-3166-2": "MA",
+            "ISO-3166-3": "MAR",
+            "ccTLD": ".ma"
+        },
+        {
+            "name": "Mozambique",
+            "ISO-3166-2": "MZ",
+            "ISO-3166-3": "MOZ",
+            "ccTLD": ".mz"
+        },
+        {
+            "name": "Namibia",
+            "ISO-3166-2": "NA",
+            "ISO-3166-3": "NAM",
+            "ccTLD": ".na"
+        },
+        {
+            "name": "Niger Republic",
+            "ISO-3166-2": "NE",
+            "ISO-3166-3": "NER",
+            "ccTLD": ".ne"
+        },
+        {
+            "name": "Nigeria",
+            "ISO-3166-2": "NG",
+            "ISO-3166-3": "NGA",
+            "ccTLD": ".ng"
+        },
+        {
+            "name": "Principe",
+            "ISO-3166-2": "ST",
+            "ISO-3166-3": "STP",
+            "ccTLD": ".st"
+        },
+        {
+            "name": "Reunion Island",
+            "ISO-3166-2": "RE",
+            "ISO-3166-3": "REU",
+            "ccTLD": ".re"
+        },
+        {
+            "name": "Rwanda",
+            "ISO-3166-2": "RW",
+            "ISO-3166-3": "RWA",
+            "ccTLD": ".rw"
+        },
+        {
+            "name": "Sao Tome",
+            "ISO-3166-2": "ST",
+            "ISO-3166-3": "STP",
+            "ccTLD": ".st"
+        },
+        {
+            "name": "Senegal Republic",
+            "ISO-3166-2": "SN",
+            "ISO-3166-3": "SEN",
+            "ccTLD": ".sn"
+        },
+        {
+            "name": "Seychelles",
+            "ISO-3166-2": "SC",
+            "ISO-3166-3": "SYC",
+            "ccTLD": ".sc"
+        },
+        {
+            "name": "Sierra Leone",
+            "ISO-3166-2": "SL",
+            "ISO-3166-3": "SLE",
+            "ccTLD": ".sl"
+        },
+        {
+            "name": "Somalia Republic",
+            "ISO-3166-2": "SO",
+            "ISO-3166-3": "SOM",
+            "ccTLD": ".so"
+        },
+        {
+            "name": "South Africa",
+            "ISO-3166-2": "ZA",
+            "ISO-3166-3": "ZAF",
+            "ccTLD": ".za"
+        },
+        {
+            "name": "South Sudan",
+            "ISO-3166-2": "SS",
+            "ISO-3166-3": "SSD",
+            "ccTLD": ".ss"
+        },
+        {
+            "name": "St. Helena",
+            "ISO-3166-2": "SH",
+            "ISO-3166-3": "SHN",
+            "ccTLD": ".sh"
+        },
+        {
+            "name": "Sudan",
+            "ISO-3166-2": "SD",
+            "ISO-3166-3": "SDN",
+            "ccTLD": ".sd"
+        },
+        {
+            "name": "Swaziland",
+            "ISO-3166-2": "SZ",
+            "ISO-3166-3": "SWZ",
+            "ccTLD": ".sz"
+        },
+        {
+            "name": "Tanzania",
+            "ISO-3166-2": "TZ",
+            "ISO-3166-3": "TZA",
+            "ccTLD": ".tz"
+        },
+        {
+            "name": "Togo",
+            "ISO-3166-2": "TG",
+            "ISO-3166-3": "TGO",
+            "ccTLD": ".tg"
+        },
+        {
+            "name": "Tunisia",
+            "ISO-3166-2": "TN",
+            "ISO-3166-3": "TUN",
+            "ccTLD": ".tn"
+        },
+        {
+            "name": "Uganda",
+            "ISO-3166-2": "UG",
+            "ISO-3166-3": "UGA",
+            "ccTLD": ".ug"
+        },
+        {
+            "name": "Zaire",
+            "ISO-3166-2": "CD",
+            "ISO-3166-3": "COD",
+            "ccTLD": ".cd"
+        },
+        {
+            "name": "Zambia",
+            "ISO-3166-2": "ZM",
+            "ISO-3166-3": "ZMB",
+            "ccTLD": ".zm"
+        },
+        {
+            "name": "Zanzibar",
+            "ISO-3166-2": "TZ",
+            "ISO-3166-3": "TZA",
+            "ccTLD": ".tz"
+        },
+        {
+            "name": "Zimbabwe",
+            "ISO-3166-2": "ZW",
+            "ISO-3166-3": "ZWE",
+            "ccTLD": ".zw"
+        }
+    ],
+    "Asia": [
+        {
+            "name": "Afghanistan",
+            "ISO-3166-2": "AF",
+            "ISO-3166-3": "AFG",
+            "ccTLD": ".af"
+        },
+        {
+            "name": "Armenia",
+            "ISO-3166-2": "AM",
+            "ISO-3166-3": "ARM",
+            "ccTLD": ".am"
+        },
+        {
+            "name": "Azerbaijan",
+            "ISO-3166-2": "AZ",
+            "ISO-3166-3": "AZE",
+            "ccTLD": ".az"
+        },
+        {
+            "name": "Bahrain",
+            "ISO-3166-2": "BH",
+            "ISO-3166-3": "BHR",
+            "ccTLD": ".bh"
+        },
+        {
+            "name": "Bangladesh",
+            "ISO-3166-2": "BD",
+            "ISO-3166-3": "BGD",
+            "ccTLD": ".bd"
+        },
+        {
+            "name": "Bhutan",
+            "ISO-3166-2": "BT",
+            "ISO-3166-3": "BTN",
+            "ccTLD": ".bt"
+        },
+        {
+            "name": "Brunei",
+            "ISO-3166-2": "BN",
+            "ISO-3166-3": "BRN",
+            "ccTLD": ".bn"
+        },
+        {
+            "name": "Cambodia",
+            "ISO-3166-2": "KH",
+            "ISO-3166-3": "KHM",
+            "ccTLD": ".kh"
+        },
+        {
+            "name": "China",
+            "ISO-3166-2": "CN",
+            "ISO-3166-3": "CHN",
+            "ccTLD": ".cn"
+        },
+        {
+            "name": "Christmas Island",
+            "ISO-3166-2": "CX",
+            "ISO-3166-3": "CXR",
+            "ccTLD": ".cx"
+        },
+        {
+            "name": "Cocos Islands",
+            "ISO-3166-2": "CC",
+            "ISO-3166-3": "CCK",
+            "ccTLD": ".cc"
+        },
+        {
+            "name": "Diego Garcia",
+            "ISO-3166-2": "IO",
+            "ISO-3166-3": "IOT",
+            "ccTLD": ".io"
+        },
+        {
+            "name": "Georgia",
+            "ISO-3166-2": "GE",
+            "ISO-3166-3": "GEO",
+            "ccTLD": ".ge"
+        },
+        {
+            "name": "Hong Kong",
+            "ISO-3166-2": "HK",
+            "ISO-3166-3": "HKG",
+            "ccTLD": ".hk"
+        },
+        {
+            "name": "India",
+            "ISO-3166-2": "IN",
+            "ISO-3166-3": "IND",
+            "ccTLD": ".in"
+        },
+        {
+            "name": "Indonesia",
+            "ISO-3166-2": "ID",
+            "ISO-3166-3": "IDN",
+            "ccTLD": ".id"
+        },
+        {
+            "name": "Iran",
+            "ISO-3166-2": "IR",
+            "ISO-3166-3": "IRN",
+            "ccTLD": ".ir"
+        },
+        {
+            "name": "Iraq",
+            "ISO-3166-2": "IQ",
+            "ISO-3166-3": "IRQ",
+            "ccTLD": ".iq"
+        },
+        {
+            "name": "Israel",
+            "ISO-3166-2": "IL",
+            "ISO-3166-3": "ISR",
+            "ccTLD": ".il"
+        },
+        {
+            "name": "Japan",
+            "ISO-3166-2": "JP",
+            "ISO-3166-3": "JPN",
+            "ccTLD": ".jp"
+        },
+        {
+            "name": "Jordan",
+            "ISO-3166-2": "JO",
+            "ISO-3166-3": "JOR",
+            "ccTLD": ".jo"
+        },
+        {
+            "name": "Kazakhstan",
+            "ISO-3166-2": "KZ",
+            "ISO-3166-3": "KAZ",
+            "ccTLD": ".kz"
+        },
+        {
+            "name": "Kuwait",
+            "ISO-3166-2": "KW",
+            "ISO-3166-3": "KWT",
+            "ccTLD": ".kw"
+        },
+        {
+            "name": "Kyrgyzstan",
+            "ISO-3166-2": "KG",
+            "ISO-3166-3": "KGZ",
+            "ccTLD": ".kg"
+        },
+        {
+            "name": "Laos",
+            "ISO-3166-2": "LA",
+            "ISO-3166-3": "LAO",
+            "ccTLD": ".la"
+        },
+        {
+            "name": "Lebanon",
+            "ISO-3166-2": "LB",
+            "ISO-3166-3": "LBN",
+            "ccTLD": ".lb"
+        },
+        {
+            "name": "Macau",
+            "ISO-3166-2": "MO",
+            "ISO-3166-3": "MAC",
+            "ccTLD": ".mo"
+        },
+        {
+            "name": "Malaysia",
+            "ISO-3166-2": "MY",
+            "ISO-3166-3": "MYS",
+            "ccTLD": ".my"
+        },
+        {
+            "name": "Maldives",
+            "ISO-3166-2": "MV",
+            "ISO-3166-3": "MDV",
+            "ccTLD": ".mv"
+        },
+        {
+            "name": "Mongolia",
+            "ISO-3166-2": "MN",
+            "ISO-3166-3": "MNG",
+            "ccTLD": ".mn"
+        },
+        {
+            "name": "Myanmar",
+            "ISO-3166-2": "MM",
+            "ISO-3166-3": "MMR",
+            "ccTLD": ".mm"
+        },
+        {
+            "name": "Nepal",
+            "ISO-3166-2": "NP",
+            "ISO-3166-3": "NPL",
+            "ccTLD": ".np"
+        },
+        {
+            "name": "North Korea",
+            "ISO-3166-2": "KP",
+            "ISO-3166-3": "PRK",
+            "ccTLD": ".kp"
+        },
+        {
+            "name": "Oman",
+            "ISO-3166-2": "OM",
+            "ISO-3166-3": "OMN",
+            "ccTLD": ".om"
+        },
+        {
+            "name": "Pakistan",
+            "ISO-3166-2": "PK",
+            "ISO-3166-3": "PAK",
+            "ccTLD": ".pk"
+        },
+        {
+            "name": "Palestine",
+            "ISO-3166-2": "PS",
+            "ISO-3166-3": "PSE",
+            "ccTLD": ".ps"
+        },
+        {
+            "name": "Philippines",
+            "ISO-3166-2": "PH",
+            "ISO-3166-3": "PHL",
+            "ccTLD": ".ph"
+        },
+        {
+            "name": "Qatar",
+            "ISO-3166-2": "QA",
+            "ISO-3166-3": "QAT",
+            "ccTLD": ".qa"
+        },
+        {
+            "name": "Saudi Arabia",
+            "ISO-3166-2": "SA",
+            "ISO-3166-3": "SAU",
+            "ccTLD": ".sa"
+        },
+        {
+            "name": "Singapore",
+            "ISO-3166-2": "SG",
+            "ISO-3166-3": "SGP",
+            "ccTLD": ".sg"
+        },
+        {
+            "name": "South Korea",
+            "ISO-3166-2": "KR",
+            "ISO-3166-3": "KOR",
+            "ccTLD": ".kr"
+        },
+        {
+            "name": "Sri Lanka",
+            "ISO-3166-2": "LK",
+            "ISO-3166-3": "LKA",
+            "ccTLD": ".lk"
+        },
+        {
+            "name": "Syria",
+            "ISO-3166-2": "SY",
+            "ISO-3166-3": "SYR",
+            "ccTLD": ".sy"
+        },
+        {
+            "name": "Taiwan",
+            "ISO-3166-2": "TW",
+            "ISO-3166-3": "TWN",
+            "ccTLD": ".tw"
+        },
+        {
+            "name": "Tajikistan",
+            "ISO-3166-2": "TJ",
+            "ISO-3166-3": "TJK",
+            "ccTLD": ".tj"
+        },
+        {
+            "name": "Thailand",
+            "ISO-3166-2": "TH",
+            "ISO-3166-3": "THA",
+            "ccTLD": ".th"
+        },
+        {
+            "name": "Turkey",
+            "ISO-3166-2": "TR",
+            "ISO-3166-3": "TUR",
+            "ccTLD": ".tr"
+        },
+        {
+            "name": "Turkmenistan",
+            "ISO-3166-2": "TM",
+            "ISO-3166-3": "TKM",
+            "ccTLD": ".tm"
+        },
+        {
+            "name": "United Arab Emirates",
+            "ISO-3166-2": "AE",
+            "ISO-3166-3": "ARE",
+            "ccTLD": ".ae"
+        },
+        {
+            "name": "Uzbekistan",
+            "ISO-3166-2": "UZ",
+            "ISO-3166-3": "UZB",
+            "ccTLD": ".uz"
+        },
+        {
+            "name": "Vietnam",
+            "ISO-3166-2": "VN",
+            "ISO-3166-3": "VNM",
+            "ccTLD": ".vn"
+        },
+        {
+            "name": "Yemen",
+            "ISO-3166-2": "YE",
+            "ISO-3166-3": "YEM",
+            "ccTLD": ".ye"
+        }
+    ],
+    "Oceania": [
+        {
+            "name": "American Samoa",
+            "ISO-3166-2": "AS",
+            "ISO-3166-3": "ASM",
+            "ccTLD": ".as"
+        },
+        {
+            "name": "Australia",
+            "ISO-3166-2": "AU",
+            "ISO-3166-3": "AUS",
+            "ccTLD": ".au"
+        },
+        {
+            "name": "Chatham Island, NZ",
+            "ISO-3166-2": "NZ",
+            "ISO-3166-3": "NZL",
+            "ccTLD": ".nz"
+        },
+        {
+            "name": "Cook Islands",
+            "ISO-3166-2": "CK",
+            "ISO-3166-3": "COK",
+            "ccTLD": ".ck"
+        },
+        {
+            "name": "East Timor",
+            "ISO-3166-2": "TL",
+            "ISO-3166-3": "TLS",
+            "ccTLD": ".tl"
+        },
+        {
+            "name": "Federated States of Micronesia",
+            "ISO-3166-2": "FM",
+            "ISO-3166-3": "FSM",
+            "ccTLD": ".fm"
+        },
+        {
+            "name": "Fiji Islands",
+            "ISO-3166-2": "FJ",
+            "ISO-3166-3": "FJI",
+            "ccTLD": ".fj"
+        },
+        {
+            "name": "French Polynesia",
+            "ISO-3166-2": "PF",
+            "ISO-3166-3": "PYF",
+            "ccTLD": ".pf"
+        },
+        {
+            "name": "Guam",
+            "ISO-3166-2": "GU",
+            "ISO-3166-3": "GUM",
+            "ccTLD": ".gu"
+        },
+        {
+            "name": "Kiribati",
+            "ISO-3166-2": "KI",
+            "ISO-3166-3": "KIR",
+            "ccTLD": ".ki"
+        },
+        {
+            "name": "Mariana Islands",
+            "ISO-3166-2": "MP",
+            "ISO-3166-3": "MNP",
+            "ccTLD": ".mp"
+        },
+        {
+            "name": "Marshall Islands",
+            "ISO-3166-2": "MH",
+            "ISO-3166-3": "MHL",
+            "ccTLD": ".mh"
+        },
+        {
+            "name": "Midway Islands",
+            "ISO-3166-2": "UM",
+            "ISO-3166-3": "UMI",
+            "ccTLD": ".um"
+        },
+        {
+            "name": "Nauru",
+            "ISO-3166-2": "NR",
+            "ISO-3166-3": "NRU",
+            "ccTLD": ".nr"
+        },
+        {
+            "name": "New Caledonia",
+            "ISO-3166-2": "NC",
+            "ISO-3166-3": "NCL",
+            "ccTLD": ".nc"
+        },
+        {
+            "name": "New Zealand",
+            "ISO-3166-2": "NZ",
+            "ISO-3166-3": "NZL",
+            "ccTLD": ".nz"
+        },
+        {
+            "name": "Niue",
+            "ISO-3166-2": "NU",
+            "ISO-3166-3": "NIU",
+            "ccTLD": ".nu"
+        },
+        {
+            "name": "Norfolk Island",
+            "ISO-3166-2": "NF",
+            "ISO-3166-3": "NFK",
+            "ccTLD": ".nf"
+        },
+        {
+            "name": "Palau",
+            "ISO-3166-2": "PW",
+            "ISO-3166-3": "PLW",
+            "ccTLD": ".pw"
+        },
+        {
+            "name": "Papua New Guinea",
+            "ISO-3166-2": "PG",
+            "ISO-3166-3": "PNG",
+            "ccTLD": ".pg"
+        },
+        {
+            "name": "Saipan",
+            "ISO-3166-2": "MP",
+            "ISO-3166-3": "MNP",
+            "ccTLD": ".mp"
+        },
+        {
+            "name": "Samoa",
+            "ISO-3166-2": "WS",
+            "ISO-3166-3": "WSM",
+            "ccTLD": ".ws"
+        },
+        {
+            "name": "Solomon Islands",
+            "ISO-3166-2": "SB",
+            "ISO-3166-3": "SLB",
+            "ccTLD": ".sb"
+        },
+        {
+            "name": "Tokelau",
+            "ISO-3166-2": "TK",
+            "ISO-3166-3": "TKL",
+            "ccTLD": ".tk"
+        },
+        {
+            "name": "Tonga",
+            "ISO-3166-2": "TO",
+            "ISO-3166-3": "TON",
+            "ccTLD": ".to"
+        },
+        {
+            "name": "Tuvalu",
+            "ISO-3166-2": "TV",
+            "ISO-3166-3": "TUV",
+            "ccTLD": ".tv"
+        },
+        {
+            "name": "Vanuatu",
+            "ISO-3166-2": "VU",
+            "ISO-3166-3": "VUT",
+            "ccTLD": ".vu"
+        },
+        {
+            "name": "Wake Island",
+            "ISO-3166-2": "UM",
+            "ISO-3166-3": "UMI",
+            "ccTLD": ".um"
+        },
+        {
+            "name": "Wallis and Futuna Islands",
+            "ISO-3166-2": "WF",
+            "ISO-3166-3": "WLF",
+            "ccTLD": ".wf"
+        }
+    ],
+    "Europe": [
+        {
+            "name": "Albania",
+            "ISO-3166-2": "AL",
+            "ISO-3166-3": "ALB",
+            "ccTLD": ".al"
+        },
+        {
+            "name": "Andorra",
+            "ISO-3166-2": "AD",
+            "ISO-3166-3": "AND",
+            "ccTLD": ".ad"
+        },
+        {
+            "name": "Austria",
+            "ISO-3166-2": "AT",
+            "ISO-3166-3": "AUT",
+            "ccTLD": ".at"
+        },
+        {
+            "name": "Belarus",
+            "ISO-3166-2": "BY",
+            "ISO-3166-3": "BLR",
+            "ccTLD": ".by"
+        },
+        {
+            "name": "Belgium",
+            "ISO-3166-2": "BE",
+            "ISO-3166-3": "BEL",
+            "ccTLD": ".be"
+        },
+        {
+            "name": "Bosnia and Herzegovina",
+            "ISO-3166-2": "BA",
+            "ISO-3166-3": "BIH",
+            "ccTLD": ".ba"
+        },
+        {
+            "name": "Bulgaria",
+            "ISO-3166-2": "BG",
+            "ISO-3166-3": "BGR",
+            "ccTLD": ".bg"
+        },
+        {
+            "name": "Croatia",
+            "ISO-3166-2": "HR",
+            "ISO-3166-3": "HRV",
+            "ccTLD": ".hr"
+        },
+        {
+            "name": "Cyprus",
+            "ISO-3166-2": "CY",
+            "ISO-3166-3": "CYP",
+            "ccTLD": ".cy"
+        },
+        {
+            "name": "Czech Republic",
+            "ISO-3166-2": "CZ",
+            "ISO-3166-3": "CZE",
+            "ccTLD": ".cz"
+        },
+        {
+            "name": "Denmark",
+            "ISO-3166-2": "DK",
+            "ISO-3166-3": "DNK",
+            "ccTLD": ".dk"
+        },
+        {
+            "name": "Estonia",
+            "ISO-3166-2": "EE",
+            "ISO-3166-3": "EST",
+            "ccTLD": ".ee"
+        },
+        {
+            "name": "Faroe Islands",
+            "ISO-3166-2": "FO",
+            "ISO-3166-3": "FRO",
+            "ccTLD": ".fo"
+        },
+        {
+            "name": "Finland",
+            "ISO-3166-2": "FI",
+            "ISO-3166-3": "FIN",
+            "ccTLD": ".fi"
+        },
+        {
+            "name": "France",
+            "ISO-3166-2": "FR",
+            "ISO-3166-3": "FRA",
+            "ccTLD": ".fr"
+        },
+        {
+            "name": "Germany",
+            "ISO-3166-2": "DE",
+            "ISO-3166-3": "DEU",
+            "ccTLD": ".de"
+        },
+        {
+            "name": "Gibraltar",
+            "ISO-3166-2": "GI",
+            "ISO-3166-3": "GIB",
+            "ccTLD": ".gi"
+        },
+        {
+            "name": "Greece",
+            "ISO-3166-2": "GR",
+            "ISO-3166-3": "GRC",
+            "ccTLD": ".gr"
+        },
+        {
+            "name": "Hungary",
+            "ISO-3166-2": "HU",
+            "ISO-3166-3": "HUN",
+            "ccTLD": ".hu"
+        },
+        {
+            "name": "Iceland",
+            "ISO-3166-2": "IS",
+            "ISO-3166-3": "ISL",
+            "ccTLD": ".is"
+        },
+        {
+            "name": "Ireland",
+            "ISO-3166-2": "IE",
+            "ISO-3166-3": "IRL",
+            "ccTLD": ".ie"
+        },
+        {
+            "name": "Isle of Man",
+            "ISO-3166-2": "IM",
+            "ISO-3166-3": "IMN",
+            "ccTLD": ".im"
+        },
+        {
+            "name": "Italy",
+            "ISO-3166-2": "IT",
+            "ISO-3166-3": "ITA",
+            "ccTLD": ".it"
+        },
+        {
+            "name": "Kosovo",
+            "ISO-3166-2": "RS",
+            "ISO-3166-3": "XKX",
+            "ccTLD": ""
+        },
+        {
+            "name": "Latvia",
+            "ISO-3166-2": "LV",
+            "ISO-3166-3": "LVA",
+            "ccTLD": ".lv"
+        },
+        {
+            "name": "Liechtenstein",
+            "ISO-3166-2": "LI",
+            "ISO-3166-3": "LIE",
+            "ccTLD": ".li"
+        },
+        {
+            "name": "Lithuania",
+            "ISO-3166-2": "LT",
+            "ISO-3166-3": "LTU",
+            "ccTLD": ".lt"
+        },
+        {
+            "name": "Luxembourg",
+            "ISO-3166-2": "LU",
+            "ISO-3166-3": "LUX",
+            "ccTLD": ".lu"
+        },
+        {
+            "name": "Macedonia",
+            "ISO-3166-2": "MK",
+            "ISO-3166-3": "MKD",
+            "ccTLD": ".mk"
+        },
+        {
+            "name": "Malta",
+            "ISO-3166-2": "MT",
+            "ISO-3166-3": "MLT",
+            "ccTLD": ".mt"
+        },
+        {
+            "name": "Moldova",
+            "ISO-3166-2": "MD",
+            "ISO-3166-3": "MDA",
+            "ccTLD": ".md"
+        },
+        {
+            "name": "Monaco",
+            "ISO-3166-2": "MC",
+            "ISO-3166-3": "MCO",
+            "ccTLD": ".mc"
+        },
+        {
+            "name": "Montenegro",
+            "ISO-3166-2": "ME",
+            "ISO-3166-3": "MNE",
+            "ccTLD": ".me"
+        },
+        {
+            "name": "Netherlands",
+            "ISO-3166-2": "NL",
+            "ISO-3166-3": "NLD",
+            "ccTLD": ".nl"
+        },
+        {
+            "name": "Norway",
+            "ISO-3166-2": "NO",
+            "ISO-3166-3": "NOR",
+            "ccTLD": ".no"
+        },
+        {
+            "name": "Poland",
+            "ISO-3166-2": "PL",
+            "ISO-3166-3": "POL",
+            "ccTLD": ".pl"
+        },
+        {
+            "name": "Portugal",
+            "ISO-3166-2": "PT",
+            "ISO-3166-3": "PRT",
+            "ccTLD": ".pt"
+        },
+        {
+            "name": "Romania",
+            "ISO-3166-2": "RO",
+            "ISO-3166-3": "ROU",
+            "ccTLD": ".ro"
+        },
+        {
+            "name": "Russia",
+            "ISO-3166-2": "RU",
+            "ISO-3166-3": "RUS",
+            "ccTLD": ".ru"
+        },
+        {
+            "name": "San Marino",
+            "ISO-3166-2": "SM",
+            "ISO-3166-3": "SMR",
+            "ccTLD": ".sm"
+        },
+        {
+            "name": "Serbia",
+            "ISO-3166-2": "RS",
+            "ISO-3166-3": "SRB",
+            "ccTLD": ".rs"
+        },
+        {
+            "name": "Slovakia",
+            "ISO-3166-2": "SK",
+            "ISO-3166-3": "SVK",
+            "ccTLD": ".sk"
+        },
+        {
+            "name": "Slovenia",
+            "ISO-3166-2": "SI",
+            "ISO-3166-3": "SVN",
+            "ccTLD": ".si"
+        },
+        {
+            "name": "Spain",
+            "ISO-3166-2": "ES",
+            "ISO-3166-3": "ESP",
+            "ccTLD": ".es"
+        },
+        {
+            "name": "Sweden",
+            "ISO-3166-2": "SE",
+            "ISO-3166-3": "SWE",
+            "ccTLD": ".se"
+        },
+        {
+            "name": "Switzerland",
+            "ISO-3166-2": "CH",
+            "ISO-3166-3": "CHE",
+            "ccTLD": ".ch"
+        },
+        {
+            "name": "Ukraine",
+            "ISO-3166-2": "UA",
+            "ISO-3166-3": "UKR",
+            "ccTLD": ".ua"
+        },
+        {
+            "name": "United Kingdom",
+            "ISO-3166-2": "GB",
+            "ISO-3166-3": "GBR",
+            "ccTLD": ".uk"
+        },
+        {
+            "name": "Vatican city",
+            "ISO-3166-2": "VA",
+            "ISO-3166-3": "VAT",
+            "ccTLD": ".va"
+        },
+        {
+            "name": "Yugoslavia",
+            "ISO-3166-2": "RS",
+            "ISO-3166-3": "RSB",
+            "ccTLD": ".rs"
+        }
+    ],
+    "North America": [
+        {
+            "name": "Anguilla",
+            "ISO-3166-2": "AI",
+            "ISO-3166-3": "AIA",
+            "ccTLD": ".ai"
+        },
+        {
+            "name": "Antigua and Barbuda",
+            "ISO-3166-2": "AG",
+            "ISO-3166-3": "ATG",
+            "ccTLD": ".ag"
+        },
+        {
+            "name": "Aruba",
+            "ISO-3166-2": "AW",
+            "ISO-3166-3": "ABW",
+            "ccTLD": ".aw"
+        },
+        {
+            "name": "Bahamas",
+            "ISO-3166-2": "BS",
+            "ISO-3166-3": "BHS",
+            "ccTLD": ".bs"
+        },
+        {
+            "name": "Barbados",
+            "ISO-3166-2": "BB",
+            "ISO-3166-3": "BRB",
+            "ccTLD": ".bb"
+        },
+        {
+            "name": "Belize",
+            "ISO-3166-2": "BZ",
+            "ISO-3166-3": "BLZ",
+            "ccTLD": ".bz"
+        },
+        {
+            "name": "Bermuda",
+            "ISO-3166-2": "BM",
+            "ISO-3166-3": "BMU",
+            "ccTLD": ".bm"
+        },
+        {
+            "name": "Bonaire",
+            "ISO-3166-2": "BQ",
+            "ISO-3166-3": "BES",
+            "ccTLD": ".an"
+        },
+        {
+            "name": "British Virgin Islands",
+            "ISO-3166-2": "VG",
+            "ISO-3166-3": "VGB",
+            "ccTLD": ".vg"
+        },
+        {
+            "name": "Canada",
+            "ISO-3166-2": "CA",
+            "ISO-3166-3": "CAN",
+            "ccTLD": ".ca"
+        },
+        {
+            "name": "Cayman Islands",
+            "ISO-3166-2": "KY",
+            "ISO-3166-3": "CYM",
+            "ccTLD": ".ky"
+        },
+        {
+            "name": "Costa Rica",
+            "ISO-3166-2": "CR",
+            "ISO-3166-3": "CRI",
+            "ccTLD": ".cr"
+        },
+        {
+            "name": "Cuba",
+            "ISO-3166-2": "CU",
+            "ISO-3166-3": "CUB",
+            "ccTLD": ".cu"
+        },
+        {
+            "name": "Curacao",
+            "ISO-3166-2": "CW",
+            "ISO-3166-3": "CUW",
+            "ccTLD": ".cw"
+        },
+        {
+            "name": "Dominica",
+            "ISO-3166-2": "DM",
+            "ISO-3166-3": "DMA",
+            "ccTLD": ".dm"
+        },
+        {
+            "name": "Dominican Republic",
+            "ISO-3166-2": "DO",
+            "ISO-3166-3": "DOM",
+            "ccTLD": ".do"
+        },
+        {
+            "name": "El Salvador",
+            "ISO-3166-2": "SV",
+            "ISO-3166-3": "SLV",
+            "ccTLD": ".sv"
+        },
+        {
+            "name": "Greenland",
+            "ISO-3166-2": "GL",
+            "ISO-3166-3": "GRL",
+            "ccTLD": ".gl"
+        },
+        {
+            "name": "Grenada and Carriacuou",
+            "ISO-3166-2": "GD",
+            "ISO-3166-3": "GRD",
+            "ccTLD": ".gd"
+        },
+        {
+            "name": "Guadeloupe",
+            "ISO-3166-2": "GP",
+            "ISO-3166-3": "GLP",
+            "ccTLD": ".gp"
+        },
+        {
+            "name": "Guatemala",
+            "ISO-3166-2": "GT",
+            "ISO-3166-3": "GTM",
+            "ccTLD": ".gt"
+        },
+        {
+            "name": "Haiti",
+            "ISO-3166-2": "HT",
+            "ISO-3166-3": "HTI",
+            "ccTLD": ".ht"
+        },
+        {
+            "name": "Honduras",
+            "ISO-3166-2": "HN",
+            "ISO-3166-3": "HND",
+            "ccTLD": ".hn"
+        },
+        {
+            "name": "Jamaica",
+            "ISO-3166-2": "JM",
+            "ISO-3166-3": "JAM",
+            "ccTLD": ".jm"
+        },
+        {
+            "name": "Martinique",
+            "ISO-3166-2": "MQ",
+            "ISO-3166-3": "MTQ",
+            "ccTLD": ".mq"
+        },
+        {
+            "name": "Mexico",
+            "ISO-3166-2": "MX",
+            "ISO-3166-3": "MEX",
+            "ccTLD": ".mx"
+        },
+        {
+            "name": "Miquelon",
+            "ISO-3166-2": "PM",
+            "ISO-3166-3": "SPM",
+            "ccTLD": ".pm"
+        },
+        {
+            "name": "Montserrat",
+            "ISO-3166-2": "MS",
+            "ISO-3166-3": "MSR",
+            "ccTLD": ".ms"
+        },
+        {
+            "name": "Netherlands Antilles",
+            "ISO-3166-2": "CW",
+            "ISO-3166-3": "ANT",
+            "ccTLD": ".an"
+        },
+        {
+            "name": "Nevis",
+            "ISO-3166-2": "KN",
+            "ISO-3166-3": "KNA",
+            "ccTLD": ".kn"
+        },
+        {
+            "name": "Nicaragua",
+            "ISO-3166-2": "NI",
+            "ISO-3166-3": "NIC",
+            "ccTLD": ".ni"
+        },
+        {
+            "name": "Panama",
+            "ISO-3166-2": "PA",
+            "ISO-3166-3": "PAN",
+            "ccTLD": ".pa"
+        },
+        {
+            "name": "Puerto Rico",
+            "ISO-3166-2": "PR",
+            "ISO-3166-3": "PRI",
+            "ccTLD": ".pr"
+        },
+        {
+            "name": "Saba",
+            "ISO-3166-2": "BQ",
+            "ISO-3166-3": "BES",
+            "ccTLD": ".an"
+        },
+        {
+            "name": "Sint Eustatius",
+            "ISO-3166-2": "BQ",
+            "ISO-3166-3": "BES",
+            "ccTLD": ".an"
+        },
+        {
+            "name": "Sint Maarten",
+            "ISO-3166-2": "SX",
+            "ISO-3166-3": "SXM",
+            "ccTLD": ".sx"
+        },
+        {
+            "name": "St. Kitts",
+            "ISO-3166-2": "KN",
+            "ISO-3166-3": "KNA",
+            "ccTLD": ".kn"
+        },
+        {
+            "name": "St. Lucia",
+            "ISO-3166-2": "LC",
+            "ISO-3166-3": "LCA",
+            "ccTLD": ".lc"
+        },
+        {
+            "name": "St. Pierre and Miquelon",
+            "ISO-3166-2": "PM",
+            "ISO-3166-3": "SPM",
+            "ccTLD": ".pm"
+        },
+        {
+            "name": "St. Vincent",
+            "ISO-3166-2": "VC",
+            "ISO-3166-3": "VCT",
+            "ccTLD": ".vc"
+        },
+        {
+            "name": "Trinidad and Tobago",
+            "ISO-3166-2": "TT",
+            "ISO-3166-3": "TTO",
+            "ccTLD": ".tt"
+        },
+        {
+            "name": "Turks and Caicos Islands",
+            "ISO-3166-2": "TC",
+            "ISO-3166-3": "TCA",
+            "ccTLD": ".tc"
+        },
+        {
+            "name": "United States",
+            "ISO-3166-2": "US",
+            "ISO-3166-3": "USA",
+            "ccTLD": ".us"
+        },
+        {
+            "name": "US Virgin Islands",
+            "ISO-3166-2": "VI",
+            "ISO-3166-3": "VIR",
+            "ccTLD": ".vi"
+        }
+    ],
+    "South America": [
+        {
+            "name": "Argentina",
+            "ISO-3166-2": "AR",
+            "ISO-3166-3": "ARG",
+            "ccTLD": ".ar"
+        },
+        {
+            "name": "Bolivia",
+            "ISO-3166-2": "BO",
+            "ISO-3166-3": "BOL",
+            "ccTLD": ".bo"
+        },
+        {
+            "name": "Brazil",
+            "ISO-3166-2": "BR",
+            "ISO-3166-3": "BRA",
+            "ccTLD": ".br"
+        },
+        {
+            "name": "Chile",
+            "ISO-3166-2": "CL",
+            "ISO-3166-3": "CHL",
+            "ccTLD": ".cl"
+        },
+        {
+            "name": "Colombia",
+            "ISO-3166-2": "CO",
+            "ISO-3166-3": "COL",
+            "ccTLD": ".co"
+        },
+        {
+            "name": "Ecuador",
+            "ISO-3166-2": "EC",
+            "ISO-3166-3": "ECU",
+            "ccTLD": ".ec"
+        },
+        {
+            "name": "Falkland Islands",
+            "ISO-3166-2": "FK",
+            "ISO-3166-3": "FLK",
+            "ccTLD": ".fk"
+        },
+        {
+            "name": "French Guiana",
+            "ISO-3166-2": "GF",
+            "ISO-3166-3": "GUF",
+            "ccTLD": ".gf"
+        },
+        {
+            "name": "Guiana",
+            "ISO-3166-2": "GY",
+            "ISO-3166-3": "GUF",
+            "ccTLD": ".gf"
+        },
+        {
+            "name": "Guyana",
+            "ISO-3166-2": "GY",
+            "ISO-3166-3": "GUY",
+            "ccTLD": ".gy"
+        },
+        {
+            "name": "Paraguay",
+            "ISO-3166-2": "PY",
+            "ISO-3166-3": "PRY",
+            "ccTLD": ".py"
+        },
+        {
+            "name": "Peru",
+            "ISO-3166-2": "PE",
+            "ISO-3166-3": "PER",
+            "ccTLD": ".pe"
+        },
+        {
+            "name": "Suriname",
+            "ISO-3166-2": "SR",
+            "ISO-3166-3": "SUR",
+            "ccTLD": ".sr"
+        },
+        {
+            "name": "Uruguay",
+            "ISO-3166-2": "UY",
+            "ISO-3166-3": "URY",
+            "ccTLD": ".uy"
+        },
+        {
+            "name": "Venezuela",
+            "ISO-3166-2": "VE",
+            "ISO-3166-3": "VEN",
+            "ccTLD": ".ve"
+        }
+    ]
+}
